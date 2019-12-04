@@ -4,7 +4,7 @@ using System.IO;
 //Problem Set https://adventofcode.com/2019/day/1
 
 namespace Day1 {
-	class Program {
+	class Day1Program {
 		static void Main(string[] args) {
 			StreamReader reader = new StreamReader("Input.txt");
 
